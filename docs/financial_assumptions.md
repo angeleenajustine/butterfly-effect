@@ -1,0 +1,1 @@
+Cash is allowed to go negative. The model does not simulate insolvency or automatic borrowing.
