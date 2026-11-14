@@ -6,3 +6,7 @@
 - Profit still grew every year with both rates at 5% because the $800K starting gap between revenue and expenses compounds at 5% a year.
 - The growth assumption mattered more than starting cash: starting cash is identical in both runs and is only ~9% of 2030 cash, while the 3-point change in growth moved 2030 cash by about 2.8 times the starting balance.
 - Next: session 5, update README and tag v0.1.0.
+
+## Session 5
+- Wrote README, tagged v0.1.0, published first GitHub Release.
+- Next: session 6, add GitHub Actions tests workflow and badge, create milestones and issues.
