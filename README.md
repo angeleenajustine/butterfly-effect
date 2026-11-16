@@ -1,4 +1,5 @@
 # Butterfly Effect
+![tests](https://github.com/angeleenajustine/butterfly-effect/actions/workflows/tests.yml/badge.svg)
 
 A financial alternate-reality simulator: how might a company's financial future change if it made a different decision?
 
