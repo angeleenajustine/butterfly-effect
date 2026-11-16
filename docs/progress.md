@@ -10,3 +10,8 @@
 ## Session 5
 - Wrote README, tagged v0.1.0, published first GitHub Release.
 - Next: session 6, add GitHub Actions tests workflow and badge, create milestones and issues.
+
+## Session 6
+- Added GitHub Actions test workflow and README badge.
+- Created v1.0 and v1.1 milestones and opened Phase 2 issues.
+- Next: session 7, Decision dataclass and registry.
