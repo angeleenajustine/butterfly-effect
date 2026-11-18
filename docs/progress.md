@@ -15,3 +15,8 @@
 - Added GitHub Actions test workflow and README badge.
 - Created v1.0 and v1.1 milestones and opened Phase 2 issues.
 - Next: session 7, Decision dataclass and registry.
+
+## Session 7
+- Added Decision and Effect dataclasses and a decision registry.
+- Decisions are immutable data; each type is one registered function.
+- Next: session 8, expand-business decision with hand-calculated tests.
